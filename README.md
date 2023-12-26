@@ -8,12 +8,7 @@
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 - 👨🏻‍💻 &nbsp; Olá, meu nome é Fábio e tenho 18 anos. Atualmente, finalizei o Ensino Médio e continuo focado em minha jornada como desenvolvedor de software. Desde o ano passado, venho dedicando meu tempo e paixão a essa área, que me permite dar vida às minhas ideias e compartilhá-las com o mundo. 
 
-<br>
-<p>
  Minha jornada de aprendizado evoluiu, e além de me especializar em HTML5 e CSS3 e JavaScript, os 3 pilares de tecnologia que são essencial no desenvolvimento web interativo. Estou  mergulhando nos estudos de TypeScript, visando iniciar minha jornada com React. Estou animado com as perspectivas que essas tecnologias trarão ao meu desenvolvimento como programador.
-</p>
- 
-
 
 Além disso, reconheço a importância do inglês como um diferencial para minha carreira. Continuo me dedicando a aprender o idioma, pois sei que isso abrirá novas portas e me possibilitará conexões com profissionais e oportunidades em todo o mundo.
 <h2> 🛠 &nbsp;Tecnologias</h2>
