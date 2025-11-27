@@ -1,49 +1,74 @@
 # 👋 Olá, eu sou o Fábio!
 
 <p align="center">
-  <a href="https://www.instagram.com/ofabiojunior___/"><img src="https://img.shields.io/badge/-@ofabiojunior___-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/fabio-junior-developer/"><img src="https://img.shields.io/badge/-Fabio%20Junior%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:fabioclash2005@gmail.com"><img src="https://img.shields.io/badge/-fabioclash2005@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ofabiojunior___/">
+    <img src="https://img.shields.io/badge/-@ofabiojunior___-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fabio-junior-developer/">
+    <img src="https://img.shields.io/badge/-Fabio%20Junior%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fabioclash2005@gmail.com">
+    <img src="https://img.shields.io/badge/-fabioclash2005@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👨🏻‍💻 Sobre mim
+## 🧑🏻‍💻 Sobre mim
 
-Olá! Meu nome é Fábio e tenho **19 anos**. Sou um **desenvolvedor de software em formação** com paixão por transformar ideias em soluções funcionais. Meu foco atual é **Back-end Java**, incluindo **Spring Boot**, **Banco de Dados (SQL e NoSQL)** e **Computação em Nuvem (Cloud Computing)**.
+Olá! Meu nome é **Fábio Junior**, tenho **19 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas no Mackenzie**.
 
-Possuo base em desenvolvimento Front-end (HTML5, CSS3, JavaScript, TypeScript) e busco uma oportunidade de **estágio** ou **primeiro emprego** para aplicar e expandir minhas habilidades.
+Atuo com **Python, automações, integrações, APIs, dados e IA aplicada**, sempre buscando transformar problemas reais em soluções práticas.
+
+Tenho experiência com **scripts, ETLs simples, manipulação de dados, automação de tarefas, APIs REST, Git/GitHub e Linux**.  
+Participo de grupos de **IA & Ciência de Dados**, **Cybersegurança** e **Programação Competitiva**, que fortalecem minha lógica, autonomia e capacidade de aprender rápido.
+
+Meu objetivo é trabalhar com **automação, IA na prática, fluxos inteligentes e integrações**, criando soluções reais de ponta a ponta.
 
 ---
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias & Ferramentas
 
-#### 💻 Principais Focos Atuais (Back-end & Cloud):
+### 🚀 Foco Atual: IA Aplicada, Automação e Integrações
 
 <p>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java &nbsp;
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Spring Boot &nbsp;
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> SQL &nbsp;
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img alt="Django" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
+  <img alt="Pandas" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
 </p>
 
-#### 🌐 Habilidades Adicionais (Front-end & Ferramentas):
+### 🔧 Outras Competências
 
-<p>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5 &nbsp;
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3 &nbsp;
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript &nbsp;
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript &nbsp;
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
-</p>
+- HTML5 / CSS3   
+- Typescript 
+- Automação de processos
+- CI/CD
+- Power BI
+- Cybersegurança
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📂 Projetos
+
+### 🔹 Portal Painéis – Website Responsivo  
+Desenvolvi o site institucional da Portal Painéis, aplicando HTML5, CSS3, JavaScript e Git/GitHub para ampliar presença digital e apresentar produtos.  
+🔗 https://portalpaineis.com.br/
+
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/fabiobud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioJuniorDeveloper&show_icons=true&theme=dark&title_color=2ECC71&icon_color=2ECC71&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJuniorDeveloper&layout=compact&langs_count=7&theme=dark&title_color=2ECC71&icon_color=2ECC71"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioJuniorDeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioJuniorDeveloper&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---
